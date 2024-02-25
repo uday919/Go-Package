@@ -1,3 +1,3 @@
-module github.com/uday919/go/Go-Package
+module github.com/uday919/Go-Package
 
 go 1.22.0
